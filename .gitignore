@@ -1,0 +1,12 @@
+gs/*
+target
+target/*
+*.DS_Store
+*.releaseBackup
+release.properties
+*.iml
+.idea
+.idea/*
+.idea_modules
+.idea_modules/*
+.project
